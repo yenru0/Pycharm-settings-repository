@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="mp4" type="Native" />
       <mapping ext="db" type="Native" />
-      <mapping ext="tikzs" type="PLAIN_TEXT" />
       <mapping ext="prefer" type="PLAIN_TEXT" />
+      <mapping ext="tikzs" type="PLAIN_TEXT" />
       <mapping ext="anw" type="XML" />
     </extensionMap>
   </component>
