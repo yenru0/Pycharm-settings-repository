@@ -4,6 +4,10 @@
       <list>
         <JupyterConnectionParameters>
           <option name="token" value="" />
+          <option name="urlString" value="http://192.168.0.4:8888" />
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="token" value="" />
           <option name="urlString" value="http://localhost:8888" />
         </JupyterConnectionParameters>
       </list>
@@ -13,7 +17,8 @@
         <entry key="D:/WORKS/workspace/natural_implementation/.idea/natural_implementation.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="managed" value="true" />
+              <option name="token" value="" />
+              <option name="urlString" value="http://192.168.0.4:8888" />
             </JupyterConnectionParameters>
           </value>
         </entry>
